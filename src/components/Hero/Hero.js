@@ -16,7 +16,7 @@ const Hero = (props) => (
          Mohammad Hasnain <br />
 Mirza        </SectionTitle>
         <SectionText>
-I am a student at the University of Saskatchewan <br/> I am expecting to graduate in 2023. I have done projects stand alone and in groups, this portfolio has some of my work.         </SectionText>
+I am a graduate from the University of Saskatchewan <br/>  I have done projects stand alone and in groups, this portfolio has some of my work.         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
 
