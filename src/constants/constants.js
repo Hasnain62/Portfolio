@@ -2,7 +2,7 @@ export const projects = [
   
     {
       title: 'INVENTORY Management ',
-      description: "Using Javafx, for front end MYSQL-DB this app provides the comfort of sorting assembling products in your inventory and also a POS terminal . Features also inculde limited access to staff and more access to management .",
+      description: "Using Javafx, for front end MYSQL-DB this app provides the comfort of sorting and assembling products in your inventory this app also features a POS terminal generates and store receipts quite convinient for a small business . Features also inculde limited access to staff and privilege access to management .",
         image2: '/images/LoginPage.png',
         image1 : '/images/inventory page.png',
         tags: ['JavaFx', 'Java', 'MYSQL'],
@@ -12,7 +12,7 @@ export const projects = [
     },
     {
       title: 'Association for Disabled Training ',
-      description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      description:"Multi part project Using React for front end one and HTML for other , MYSQL for storing data. The app has features of registering a patient with details involving the cause of admission etc. Registering staff , maintaining and removing staff with privelege control to management.",
       image1: '/images/projects.jpeg',
       image2: '/images/profile.jpeg',
       tags: ['React', 'JavaScript', "MYSQL"],
