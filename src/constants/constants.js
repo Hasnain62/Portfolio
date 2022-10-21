@@ -7,7 +7,7 @@ export const projects = [
         image1 : '/images/inventory page.png',
         tags: ['JavaFx', 'Java', 'MYSQL'],
       source: 'https://google.com',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Hasnain62/Inventory-Management',
       id: 0,
     },
     {
@@ -17,7 +17,7 @@ export const projects = [
       image2: '/images/profile.jpeg',
       tags: ['React', 'JavaScript', "MYSQL"],
       source: 'https://google.com',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Hasnain62/CBO-Admin-Web-System',
       id: 1,
     },
     // {
