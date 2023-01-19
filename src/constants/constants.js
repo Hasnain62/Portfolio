@@ -1,5 +1,15 @@
 export const projects = [
   
+  {
+    title: 'Cashmere-e-store',
+    description: "This is a code repository for the corresponding video. In this e-commerce website, we are selling Casmere pashmina and it features a shop , cart , Paymrnt gateway . Although it's undert production stages but this is a prototype.",
+      image1: '/images/CashmereWebsite.mov',
+      image2: '/images/projects.jpeg',
+      tags: ['React', 'Bootstrap','Javascript','Typescript'],
+    source: 'https://google.com',
+    visit: 'https://github.com/Hasnain62/eCommerce-wensite',
+    id: 0,
+  },
     {
       title: 'INVENTORY Management ',
       description: "Using Javafx, for front end MYSQL-DB this app provides the comfort of sorting and assembling products in your inventory this app also features a POS terminal generates and store receipts quite convinient for a small business . Features also inculde limited access to staff and privilege access to management .",
@@ -8,7 +18,7 @@ export const projects = [
         tags: ['JavaFx', 'Java', 'MYSQL'],
       source: 'https://google.com',
       visit: 'https://github.com/Hasnain62/Inventory-Management',
-      id: 0,
+      id: 1,
     },
     {
       title: 'Association for Disabled Training ',
@@ -18,18 +28,9 @@ export const projects = [
       tags: ['React', 'JavaScript', "MYSQL"],
       source: 'https://google.com',
       visit: 'https://github.com/Hasnain62/CBO-Admin-Web-System',
-      id: 1,
+      id: 2,
     },
-    // {
-    //   title: 'WebRTC App',
-    //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    //     image1: '/images/3.jpg',
-    //     image2: '/images/projects.jpeg',
-    //     tags: ['React', 'WebRTC'],
-    //   source: 'https://google.com',
-    //   visit: 'https://google.com',
-    //   id: 2,
-    // },
+   
     // {
     //   title: 'Unichat',
     //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
