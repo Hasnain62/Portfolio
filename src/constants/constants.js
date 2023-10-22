@@ -30,6 +30,16 @@ export const projects = [
       visit: 'https://github.com/Hasnain62/CBO-Admin-Web-System',
       id: 2,
     },
+    {
+      title: 'Manipulated xv6 OS scheduler ',
+      description:'In this project we changed the orginal scheduler to an MLFQ variant type of scheduler for efficiency which was demonstrated in the userspace files and consequently decreased the load time by 40%.',
+      image1: '/images/MLFQ_Scheduler.png',
+      image2: '/images/profile.jpeg',
+      tags: ['C', 'Assembly', "C++"],
+      source: 'https://google.com',
+      visit: 'https://github.com/Hasnain62/xv6-Procject',
+      id: 3,
+    },
    
     // {
     //   title: 'Unichat',
